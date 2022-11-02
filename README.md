@@ -25,5 +25,5 @@
 </div>
 
 ### Как со мной связаться:
-- Telegram: https://t.me/shuraaas
-- LinkedIn: https://www.linkedin.com/
+- ![telegram](https://img.shields.io/badge/-telegram-444?style=for-the-badge&logo=telegram): https://t.me/shuraaas
+- ![linkedin](https://img.shields.io/badge/-linkedin-444?style=for-the-badge&logo=linkedin): https://www.linkedin.com/
