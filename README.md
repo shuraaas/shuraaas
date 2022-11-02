@@ -6,7 +6,11 @@
 - 💻 Стараюсь писать чистый и поддерживаемый код;
 
 ### Мой стек:
-
+![react](https://img.shields.io/badge/-react-444?style=for-the-badge&logo=react)
+![javascript](https://img.shields.io/badge/-javascript-444?style=for-the-badge&logo=javascript)
+![html](https://img.shields.io/badge/-html-444?style=for-the-badge&logo=html5)
+![css](https://img.shields.io/badge/-css-444?style=for-the-badge&logo=css3)
+![npm](https://img.shields.io/badge/-npm-444?style=for-the-badge&logo=npm)
 
 ### Моя статистика на Гитхабе:
 <div>
