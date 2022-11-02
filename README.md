@@ -9,8 +9,10 @@
 ![react](https://img.shields.io/badge/-react-444?style=for-the-badge&logo=react)
 ![javascript](https://img.shields.io/badge/-javascript-444?style=for-the-badge&logo=javascript)
 ![html](https://img.shields.io/badge/-html-444?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/-css-444?style=for-the-badge&logo=css3)
+![css](https://img.shields.io/badge/-css-444?style=for-the-badge&logo=css3&logoColor=379bd6)
 ![npm](https://img.shields.io/badge/-npm-444?style=for-the-badge&logo=npm)
+![webpack](https://img.shields.io/badge/-webpack-444?style=for-the-badge&logo=webpack)
+![git](https://img.shields.io/badge/-git-444?style=for-the-badge&logo=git)
 
 ### Моя статистика на Гитхабе:
 <div>
